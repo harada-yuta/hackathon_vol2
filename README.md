@@ -1,7 +1,4 @@
-# hackathon_vol2
-
-
-## 成果物：twitterの自動リプライボット
+# 成果物：twitterの自動リプライボット
 
 
 ### Twitter APIを用いて指定したアカウントへの自動リプライ
@@ -10,6 +7,7 @@
         ツイートの極性(ネガポジ)に合わせた画像をリプライ <br>
     ・Bot2  対話ボット <br>
         対話API「TalkAPI」を使用してリプライ <br>
+        [TalkAPI](https://a3rt.recruit-tech.co.jp/product/talkAPI/)
     ・Bot3  クソリプ <br>
         幸せそうなツイートを見かけるとクソリプを送る <br>
     ・Bot4  しりとり <br>
