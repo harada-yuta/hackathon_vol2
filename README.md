@@ -1,8 +1,7 @@
-# ハッカソンvol.2　　　　   <span style="font-size: 60%">4月25日(日)</span>     　<span style="text-align:right; font-size: 60%">原田侑汰</span>
+# ハッカソンvol.2　　　　   
 
 ## 成果物：twitterの自動リプライボット
 
-<br> 
 
 ### [Twitter APIを用いて指定したアカウントへの自動リプライ]
 ボットは6種類 <br>
