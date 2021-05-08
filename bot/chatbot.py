@@ -5,8 +5,8 @@ import json
 # リクルートのA3RT提供の「Talk API」
 class Talk:
     def __init__(self):
-        self.key = 'DZZHue5MzayjVdETslboHwDRu4hnkPXt'
-        self.api = 'https://api.a3rt.recruit-tech.co.jp/talk/v1/smalltalk'
+        self.key = ''
+        self.api = ''
 
     def get(self,talking):
         url = self.api
